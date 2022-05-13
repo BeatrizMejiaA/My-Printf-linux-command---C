@@ -16,6 +16,8 @@
 ### s The char * argument is expected to be a pointer to an array of character type (pointer to a string). Characters from the array are written up to (but not including) a terminating NUL character.
 ### p The void * pointer argument is printed in hexadecimal.
 
+## Compilation:
+
 ### 1. Run this command to compile the programm: gcc -o my_printf my_printf.command
 ### 2. After compile the program run the next command: ./my_printf if you want you can run: -Wall -Wextra -Werror
 ### 3. In the main part I have added a comment saying Test inputs: 
